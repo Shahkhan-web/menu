@@ -1,9 +1,5 @@
-{
-  "menu": {
-    "categories": [
-      {
-        "name": "Burgers",
-        "items": [
+
+  [
           {
             "name": "Classic Burger",
             "price": 5.99
@@ -16,59 +12,4 @@
             "name": "Bacon Deluxe Burger",
             "price": 7.99
           }
-        ]
-      },
-      {
-        "name": "Chicken",
-        "items": [
-          {
-            "name": "Crispy Chicken Sandwich",
-            "price": 6.49
-          },
-          {
-            "name": "Grilled Chicken Wrap",
-            "price": 7.99
-          },
-          {
-            "name": "Spicy Chicken Nuggets",
-            "price": 4.99
-          }
-        ]
-      },
-      {
-        "name": "Sides",
-        "items": [
-          {
-            "name": "French Fries",
-            "price": 2.49
-          },
-          {
-            "name": "Onion Rings",
-            "price": 3.49
-          },
-          {
-            "name": "Cheese Fries",
-            "price": 3.99
-          }
-        ]
-      },
-      {
-        "name": "Drinks",
-        "items": [
-          {
-            "name": "Soda (Small)",
-            "price": 1.49
-          },
-          {
-            "name": "Milkshake",
-            "price": 4.99
-          },
-          {
-            "name": "Iced Tea",
-            "price": 2.29
-          }
-        ]
-      }
-    ]
-  }
-}
+  ]
